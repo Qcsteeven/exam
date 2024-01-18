@@ -9,6 +9,9 @@
 <p align="left">
   <img src="https://github.com/Qcsteeven/exam/blob/main/difficulty-classes.png" height=947>
 </p>
+<p align="left">
+  <img src="https://github.com/Qcsteeven/exam/blob/main/function.png" height=947>
+</p>
 
 2. Анализ асисмтотик простейших программ: поиск простых делителей, проверка числа на простоту. Решето Эратосфена (б/д асимптотики).
 3. Алгоритм бинарного поиска по ответу.
