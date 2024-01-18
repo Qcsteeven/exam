@@ -1,13 +1,13 @@
 # Подготовка к экзамену по алгоритмам
 1. Асимтотические классы. O-нотация (𝒪, Ω, Θ). Графики функций, вычисления примеров асимптотик. Алогритмы НОД (2 вида), НОК.
 <p align="left">
-  <img src="https://github.com/Qcsteeven/exam/blob/main/asymptotic-complexity.png" height=500>
+  <img src="https://github.com/Qcsteeven/exam/blob/main/asymptotic-complexity.png" height=423>
 </p>
 <p align="left">
-  <img src="https://github.com/Qcsteeven/exam/blob/main/complexity-algorithm.png" height=500>
+  <img src="https://github.com/Qcsteeven/exam/blob/main/complexity-algorithm.png" height=512>
 </p>
 <p align="left">
-  <img src="https://github.com/Qcsteeven/exam/blob/main/difficulty-classes.png" height=500>
+  <img src="https://github.com/Qcsteeven/exam/blob/main/difficulty-classes.png" height=947>
 </p>
 2. Анализ асисмтотик простейших программ: поиск простых делителей, проверка числа на простоту. Решето Эратосфена (б/д асимптотики).
 3. Алгоритм бинарного поиска по ответу.
