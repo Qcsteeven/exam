@@ -1,18 +1,5 @@
 # Подготовка к экзамену по алгоритмам
-1. Асимтотические классы. O-нотация (𝒪, Ω, Θ). Графики функций, вычисления примеров асимптотик. [Алгоритмы НОД (2 вида), НОК](https://github.com/Qcsteeven/exam/blob/main/gsd.cpp).
-<p align="left">
-  <img src="https://github.com/Qcsteeven/exam/blob/main/asymptotic-complexity.png" height=423>
-</p>
-<p align="left">
-  <img src="https://github.com/Qcsteeven/exam/blob/main/complexity-algorithm.png" height=512>
-</p>
-<p align="left">
-  <img src="https://github.com/Qcsteeven/exam/blob/main/difficulty-classes.png" height=947>
-</p>
-<p align="left">
-  <img src="https://github.com/Qcsteeven/exam/blob/main/function.png" height=428>
-</p>
-
+1. [Асимтотические классы](https://github.com/Qcsteeven/exam/blob/main/asymptotic-complexity.png). [O-нотация (𝒪, Ω, Θ)](https://github.com/Qcsteeven/exam/blob/main/asymptotic-complexity.png). [Графики функций, вычисления примеров асимптотик](https://github.com/Qcsteeven/exam/blob/main/function.png). [Алгоритмы НОД (2 вида), НОК](https://github.com/Qcsteeven/exam/blob/main/gsd.cpp).
 2. [Анализ асисмтотик простейших программ: поиск простых делителей, проверка числа на простоту. Решето Эратосфена (б/д асимптотики).](https://github.com/Qcsteeven/exam/blob/main/Primary.cpp)
 3. [Алгоритм бинарного поиска по ответу](https://github.com/Qcsteeven/exam/blob/main/BinarySearch.cpp).
 4. Свойства сортировок (устойчивость, потребляемые ресурсы). Тривиальная сортировка. Квадратичные сортировки: [Selection sort, Insertion sort, Bubble sort](https://github.com/Qcsteeven/exam/blob/main/Sorting.cpp). Поиск максимума и минимума .
