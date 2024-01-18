@@ -18,6 +18,7 @@
 16. АТД Стек на односвязном списке. АТД очередь на стеке. Асимптотики выполнения.
 
 [User Interface для BST](https://github.com/Qcsteeven/exam/blob/main/BST-UI.cpp) [Составляющие BST](https://github.com/Qcsteeven/exam/blob/main/BinarySearchTree.h) [Реализация BST](https://github.com/Qcsteeven/exam/blob/main/BinarySearchTree.cpp)
+
 17. Несбалансированное дерево поиска, обходы дерева DFS (3 вида) и BFS. Идея реализации BST.
 Реализация insert, max, min, removeMin, removeMax, Node. Высота дерева.
 18. Несбалансированное дерево поиска, обходы дерева DFS (3 вида) и BFS. Идея реализации BST.
