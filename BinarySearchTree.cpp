@@ -282,7 +282,7 @@ void BST::PostOrder(Node* node) {
   if (!node) {
     return;
   }
-  PreOrder(node->left);
-  PreOrder(node->right);
+  PostOrder(node->left);
+  PostOrder(node->right);
   std::cout << node->value << ' ';
 }
