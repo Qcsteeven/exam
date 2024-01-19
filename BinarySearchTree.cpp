@@ -274,15 +274,15 @@ void BST::PreOrder(Node* node) {
     return;
   }
   std::cout << node->value << ' ';
-  InOrder(node->left);
-  InOrder(node->right);
+  PreOrder(node->left);
+  PreOrder(node->right);
 }
 
 void BST::PostOrder(Node* node) {
   if (!node) {
     return;
   }
-  InOrder(node->left);
-  InOrder(node->right);
+  PostOrder(node->left);
+  PostOrder(node->right);
   std::cout << node->value << ' ';
 }
