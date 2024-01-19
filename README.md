@@ -9,6 +9,9 @@
 7. Теорема о сортировках сравнением (б/д). [Quick sort](https://github.com/Qcsteeven/exam/blob/main/QuickHoar.cpp). Выбор опорного. Разбиенте Хоара. Асимптотика времени работы и худший случай.
 8. [Сортировка подсчетом. Устойчивая сортировка подсчетом](https://github.com/Qcsteeven/exam/blob/main/CountingSort.cpp). Доказательство асимптотик и корректности.
 9. АТД Heap. Операции SiftUP, SiftDown, Heapify.
+
+[User Interface для Heap](https://github.com/Qcsteeven/exam/blob/main/HeapUI.cpp) [Составляющие Heap](https://github.com/Qcsteeven/exam/blob/main/Heap.cpp) [Реализация Heap](https://github.com/Qcsteeven/exam/blob/main/Heap.cpp)
+
 10. АТД Heap. Операции Push, PopMax. Heap sort.
 11. Задача о рюкзаке с весами.
 12. Наибольшая общая подпоследовательность.
