@@ -4,9 +4,9 @@
 3. [Алгоритм бинарного поиска по ответу](https://github.com/Qcsteeven/exam/blob/main/BinarySearch.cpp).
 4. [Свойства сортировок (устойчивость, потребляемые ресурсы)](https://github.com/Qcsteeven/exam/blob/main/properties.png). [Тривиальная сортировка](http://algolab.valemak.com/perm). [Квадратичные сортировки: Selection sort, Insertion sort, Bubble sort](https://github.com/Qcsteeven/exam/blob/main/Sorting.cpp). [Поиск максимума и минимума](https://github.com/Qcsteeven/exam/blob/main/MinMax.cpp).
 [Доказательство асимптотик и корректности](https://habr.com/ru/articles/78728/).
-5. [Сортировка Merge sort, функция merge](https://github.com/Qcsteeven/exam/blob/main/MergeSort.cpp). Доказательство асимптотик и корректности.
-6. Теорема о сортировках сравнением (б/д). [Quick sort](https://github.com/Qcsteeven/exam/blob/main/QuickLomuto.cpp). Выбор опорного. Разбиенте Ломуто. Асимптотика времени работы и худший случай.
-7. Теорема о сортировках сравнением (б/д). [Quick sort](https://github.com/Qcsteeven/exam/blob/main/QuickHoar.cpp). Выбор опорного. Разбиенте Хоара. Асимптотика времени работы и худший случай.
+5. [Сортировка Merge sort, функция merge](https://github.com/Qcsteeven/exam/blob/main/MergeSort.cpp). [Доказательство асимптотик и корректности](https://9kin.github.io/is-algo/algorithms/sorts/merge-sort.html).
+6. [Теорема о сортировках сравнением (б/д)](https://neerc.ifmo.ru/wiki/index.php?title=Теорема_о_нижней_оценке_для_сортировки_сравнениями). [Quick sort](https://github.com/Qcsteeven/exam/blob/main/QuickLomuto.cpp). [Выбор опорного. Разбиенте Ломуто](https://github.com/Qcsteeven/exam/blob/main/lomuto.gif). [Асимптотика времени работы и худший случай.](https://iq.opengenus.org/worst-case-of-quick-sort/)
+7. [Теорема о сортировках сравнением (б/д)](https://neerc.ifmo.ru/wiki/index.php?title=Теорема_о_нижней_оценке_для_сортировки_сравнениями). [Quick sort](https://github.com/Qcsteeven/exam/blob/main/QuickHoar.cpp). [Выбор опорного. Разбиенте Хоара](https://forkettle.ru/vidioteka/programmirovanie-i-set/algoritmy-i-struktury-dannykh/108-sortirovka-i-poisk-dlya-chajnikov/1010-metod-khoara-bystraya-sortirovka-quick-sort). [Асимптотика времени работы и худший случай.](https://iq.opengenus.org/worst-case-of-quick-sort/)
 8. [Сортировка подсчетом. Устойчивая сортировка подсчетом](https://github.com/Qcsteeven/exam/blob/main/CountingSort.cpp). Доказательство асимптотик и корректности.
 9. [АТД Heap. Операции SiftUP, SiftDown, Heapify](https://github.com/Qcsteeven/exam/blob/main/Heap.cpp).
 
