@@ -1,5 +1,5 @@
 #include "BinarySearchTree.h"
-
+#include <iostream>
 #include <queue>
 int BST::Size() { return size_; }
 
@@ -274,15 +274,15 @@ void BST::PreOrder(Node* node) {
     return;
   }
   std::cout << node->value << ' ';
-  InOrder(node->left);
-  InOrder(node->right);
+  PreOrder(node->left);
+  PreOrder(node->right);
 }
 
 void BST::PostOrder(Node* node) {
   if (!node) {
     return;
   }
-  InOrder(node->left);
-  InOrder(node->right);
+  PreOrder(node->left);
+  PreOrder(node->right);
   std::cout << node->value << ' ';
 }
