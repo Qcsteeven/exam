@@ -13,10 +13,10 @@
 [User Interface для Heap](https://github.com/Qcsteeven/exam/blob/main/HeapUI.cpp) [Составляющие Heap](https://github.com/Qcsteeven/exam/blob/main/Heap.cpp) [Реализация Heap](https://github.com/Qcsteeven/exam/blob/main/Heap.cpp)
 
 10. [АТД Heap. Операции Push, PopMax. Heap sort](https://github.com/Qcsteeven/exam/blob/main/Heap.cpp).
-11. Задача о рюкзаке с весами.
-12. Наибольшая общая подпоследовательность.
-13. Наибольшая возрастающая подпоследовательность. Алгоритм за 𝒪(𝑁2).
-14. Наибольшая возрастающая подпоследовательность. Алгоритм за 𝒪(𝑁𝑙𝑜𝑔𝑁).
+11. [Задача о рюкзаке с весами](https://github.com/Qcsteeven/exam/blob/main/BackPack.cpp).
+12. [Наибольшая общая подпоследовательность](https://github.com/Qcsteeven/exam/blob/main/NOP.cpp).
+13. [Наибольшая возрастающая подпоследовательность. Алгоритм за 𝒪(𝑁2)](https://github.com/Qcsteeven/exam/blob/main/NVP_Slow.cpp).
+14. [Наибольшая возрастающая подпоследовательность. Алгоритм за 𝒪(𝑁𝑙𝑜𝑔𝑁)](https://github.com/Qcsteeven/exam/blob/main/NVP_Fast.cpp).
 15. [АТД Односвязный список.](https://github.com/Qcsteeven/exam/blob/main/List.cpp)
 16. [АТД Стек на односвязном списке. АТД очередь на двух стеках.](https://github.com/Qcsteeven/exam/blob/main/TwoStackQueue.cpp) [Асимптотики выполнения](https://www.geeksforgeeks.org/queue-using-stacks/).
 17. [Несбалансированное дерево поиска,](https://habr.com/ru/articles/267855/) [обходы дерева DFS (3 вида) и BFS](https://github.com/Qcsteeven/exam/blob/main/BinarySearchTree.cpp). [Идея реализации BST](https://neerc.ifmo.ru/wiki/index.php?title=Дерево_поиска,_наивная_реализация).
