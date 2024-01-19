@@ -4,10 +4,10 @@
 3. [Алгоритм бинарного поиска по ответу](https://github.com/Qcsteeven/exam/blob/main/BinarySearch.cpp).
 4. [Свойства сортировок (устойчивость, потребляемые ресурсы)](https://github.com/Qcsteeven/exam/blob/main/properties.png). [Тривиальная сортировка](http://algolab.valemak.com/perm). [Квадратичные сортировки: Selection sort, Insertion sort, Bubble sort](https://github.com/Qcsteeven/exam/blob/main/Sorting.cpp). [Поиск максимума и минимума](https://github.com/Qcsteeven/exam/blob/main/MinMax.cpp).
 [Доказательство асимптотик и корректности](https://habr.com/ru/articles/78728/).
-5. Сортировка Merge sort, функция merge. Доказательство асимптотик и корректности.
-6. Теорема о сортировках сравнением (б/д). Quick sort. Выбор опорного. Разбиенте Ломуто. Асимптотика времени работы и худший случай.
-7. Теорема о сортировках сравнением (б/д). Quick sort. Выбор опорного. Разбиенте Хоара. Асимптотика времени работы и худший случай.
-8. Сортировка подсчетом. Устойчивая сортировка подсчетом. Доказательство асимптотик и корректности.
+5. [Сортировка Merge sort, функция merge](https://github.com/Qcsteeven/exam/blob/main/MergeSort.cpp). Доказательство асимптотик и корректности.
+6. Теорема о сортировках сравнением (б/д). [Quick sort](https://github.com/Qcsteeven/exam/blob/main/QuickLomuto.cpp). Выбор опорного. Разбиенте Ломуто. Асимптотика времени работы и худший случай.
+7. Теорема о сортировках сравнением (б/д). [Quick sort](https://github.com/Qcsteeven/exam/blob/main/QuickHoar.cpp). Выбор опорного. Разбиенте Хоара. Асимптотика времени работы и худший случай.
+8. [Сортировка подсчетом. Устойчивая сортировка подсчетом](https://github.com/Qcsteeven/exam/blob/main/CountingSort.cpp). Доказательство асимптотик и корректности.
 9. АТД Heap. Операции SiftUP, SiftDown, Heapify.
 10. АТД Heap. Операции Push, PopMax. Heap sort.
 11. Задача о рюкзаке с весами.
