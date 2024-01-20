@@ -28,7 +28,7 @@
 [Реализация search, erase,](https://github.com/Qcsteeven/exam/blob/main/BinarySearchTree.cpp) [Node](https://github.com/Qcsteeven/exam/blob/main/BinarySearchTree.h).
 19. Декартово дерево поиска. Операции Split, Erase, Insert. [Высота дерева (б/д)](https://algorithmica.org/ru/treap).
 20. Декартово дерево поиска. Операции Merge, Erase, Insert. [Высота дерева (б/д)](https://algorithmica.org/ru/treap).
-21. AVL-дерево. [Вращение дерева и поддержание высоты. Высота дерева (б/д).](https://habr.com/ru/articles/150732/)
+21. [AVL-дерево](https://gist.github.com/Harish-R/097688ac7f48bcbadfa5). [Вращение дерева и поддержание высоты. Высота дерева (б/д).](https://habr.com/ru/articles/150732/)
 22. [Задача RMQ. Решение с помощью разряженой таблицы](https://github.com/Qcsteeven/exam/blob/main/SparseTable.cpp).
 23. [Задача RMQ. Решение с помощью дерева отрезков](https://github.com/Qcsteeven/exam/blob/main/SegmentTree.cpp).
 24. Задача LCA.
